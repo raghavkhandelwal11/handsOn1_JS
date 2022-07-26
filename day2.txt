@@ -1,0 +1,51 @@
+topics to be covered today: 
+
+- declaration (3 types)
+    - var
+    - let
+    - const
+- hiosting in JS
+- undefined vs not-defined 
+- strict-mode
+
+data-types :
+
+    int --> 1, 2, 4, float 12.5
+
+    string --> "MyName"
+
+    booleans: true and false
+
+    objects
+
+    array --> [1, 2, 4, 3, 6, 8]  (arrays are also objects)
+
+    buffer --> learn while Node.js is being taught
+
+
+
+
+
+note : everything in javascript is getting converted into objects
+
+
+
+
+1. DECELARATIONS
+
+    3 types: let, const and var
+
+    1. var --> variable
+
+    var a=12;
+
+
+
+
+
+
+
+
+
+
+
